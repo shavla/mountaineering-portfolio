@@ -15,7 +15,7 @@ export default function Home() {
       <div className="title text-charcoal mt-6 flex items-center flex-col">
         <h1 className="text-2xl font-bold">Shalva Rakviashvili</h1>
         <h2>Mountaineer</h2>
-        <h2>Georgia</h2>
+        <h2>Georgiass</h2>
       </div>
 
       <div className="info"></div>
