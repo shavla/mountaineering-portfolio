@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logoImage from "@/public/images/profile1.jpg";
+import logoImage from "@/public/images/profile.jpg";
 import { ascents } from "./data/ascents";
 import AscentCard from "./ui/ascent-card";
 

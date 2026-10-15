@@ -25,4 +25,15 @@ body {
   font: 13px/100% Apple SD Gothic Neo, "Apple SD 산돌고딕 Neo", "Roboto", "맑은 고딕",
     "Malgun Gothic", "Apple Gothic", "나눔고딕", "Nanum Gothic", "돋움", Dotum, "Helvetica Neue",
     Helvetica, Arial, sans-serif;
+
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: url("/images/map.png") center / cover no-repeat;
+  opacity: 0.04;
+  pointer-events: none;
 }
