@@ -18,8 +18,7 @@ export default function Home() {
         />
       </div>
       <div className="flex items-center flex-col">
-        {/* <h1 className="name mt-8 text-3xl font-bold text-center text-charcoal">Shalva Rakviashvili</h1> */}
-        <h1 className="name mt-8 text-3xl font-bold text-center text-charcoal">SSKO</h1>
+        <h1 className="name mt-8 text-3xl font-bold text-center text-charcoal">Shalva Rakviashvili</h1>
         <p className="job mt-6 text-lg text-zinc-500">Mountaineer</p>
         <p className="nation text-base leading-none text-zinc-400">Georgia</p>
       </div>

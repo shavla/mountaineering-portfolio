@@ -3,6 +3,7 @@ import { ascents } from "../../data/ascents";
 import Image from "next/image";
 import RouteTimeline from "../../ui/route-timeline";
 import StatCard from "../../ui/stat-card";
+import ImageGallery from "../../ui/image-gallery";
 
 export default async function AscentInfo({ params }: { params: Promise<{ id: string }> }) {
     const { id } = await params;
@@ -93,21 +94,12 @@ export default async function AscentInfo({ params }: { params: Promise<{ id: str
         </section>
         {ascent.images.length > 0 && (
             <section className="mt-16 border-t border-zinc-200 pt-10">
-                <h2 className="text-2xl font-bold">Moments from the mountain</h2>
+                <h2 className="text-sm font-semibold uppercase tracking-[0.2em] text-zinc-500">Moments from the mountain</h2>
 
-                <div className="mt-6 columns-1 gap-6 md:columns-2">
-                    {ascent.images.map((filename, index) => (
-                        <Image
-                            key={filename}
-                            src={`/images/${filename}`}
-                            alt={`${ascent.mountain} ascent photo ${index + 1}`}
-                            width={1000}
-                            height={1000}
-                            sizes="(min-width: 768px) 50vw, 100vw"
-                            className="mb-6 h-auto w-full break-inside-avoid rounded-xl"
-                        />
-                    ))}
-                </div>
+                <ImageGallery
+                    images={ascent.images.map((filename) => `/images/${filename}`)}
+                    title={`${ascent.mountain} ascent`}
+                />
             </section>
         )}
     </div>)

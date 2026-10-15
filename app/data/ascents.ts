@@ -14,7 +14,7 @@ export const ascents: Ascent[] = [
         route: {
             points: [
                 { name: "Gergeti Trinity Church Parking", elevation: 2160 },
-                { name: "Betlemi Hut", elevation: 3650 },
+                { name: "Betlemi Hut", elevation: 3670 },
                 { name: "Mt. Kazbegi", elevation: 5054 },
             ],
             distance: 15.5,
@@ -22,7 +22,7 @@ export const ascents: Ascent[] = [
             description: "Our journey began in Tbilisi. Once we arrived at the parking area near Gergeti Trinity Church, we started our trek toward Betlemi Hut, where we planned to camp for the night.\n\nOn the second day, we went to Betlemi Chapel for acclimatization, preparing our bodies for the higher altitude and the summit attempt ahead.\n\nAt 2 a.m. on the third day, we left our camp and began our ascent in the darkness. We made our way toward the summit, eventually reaching the saddle at 4,900 meters. Unfortunately, the weather conditions deteriorated, and we had to make the difficult decision to turn back and descend to camp.\n\nLater that day, we began our journey back to Tbilisi. Although we didn't reach the summit, the experience was still an important part of our mountaineering journey"
         },
         team: ["Gagi Nartyoshvili", "Ilia Ubiria", "Solomon Shaqarashvili", "Teona Dzuliashvili", "Medea Kenkebashvili", "Giorgi Sanaia", "Giorgi Xucishvili"],
-        images: ["mt-kazbeg-route.png", "mt-kazbeg-route.png", "mt-kazbeg-route.png"],
+        images: ["mt-kazbeg-route.png", "404.png", "map.png","mt-kazbeg.jpg","profile.jpg"],
         duration: "3 days",
         distance: 15.5
     },
