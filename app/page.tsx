@@ -47,7 +47,7 @@ export default function Home() {
           <span className="text-sm font-semibold">- GUIDED</span>
         </h2>
 
-        <div className="mt-6 grid gap-6 sm:grid-cols-2">
+        <div className="mt-6 flex flex-col gap-6">
           {guidedAscents.map((ascent) => (
             <AscentCard key={ascent.id} ascent={ascent} />
           ))}

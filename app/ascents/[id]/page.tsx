@@ -14,7 +14,7 @@ export default async function AscentInfo({ params }: { params: Promise<{ id: str
     return (<div className="mx-auto max-w-6xl px-5 pb-20 pt-20 text-charcoal">
         <section className="main-info flex flex-col items-center">
             <Image
-                src={ascent.thumbnail}
+                src={`/images/${ascent.thumbnail}`}
                 alt={ascent.mountain}
                 width={680}
                 height={580}
@@ -22,6 +22,13 @@ export default async function AscentInfo({ params }: { params: Promise<{ id: str
                 loading="eager"
             />
             <h1 className="mt-10 text-3xl font-semibold text-charcoal">{ascent.mountain}</h1>
+            <p className="mt-2 text-sm text-zinc-500">
+                {new Date(`${ascent.date}T12:00:00`).toLocaleDateString("en-GB", {
+                    day: "numeric",
+                    month: "long",
+                    year: "numeric",
+                })}
+            </p>
             <div className="mt-3 flex flex-wrap justify-center gap-2">
                 <span className={`rounded-full px-3 py-1 text-sm text-white ${ascent.status === "successful" ? "bg-green-500" : "bg-red-500"
                     }`}>
@@ -68,7 +75,7 @@ export default async function AscentInfo({ params }: { params: Promise<{ id: str
                 Expedition details
             </h2>
 
-            <div className="mt-6 grid gap-10 md:grid-cols-[3fr_4fr]">
+            <div className="mt-6 grid gap-10 md:grid-cols-3">
                 <div>
                     <p className="text-sm text-zinc-500">
                         Ascent type
@@ -90,6 +97,16 @@ export default async function AscentInfo({ params }: { params: Promise<{ id: str
                             : "Solo / not specified"}
                     </p>
                 </div>
+                {ascent.instructors?.length ? (
+                    <div>
+                        <p className="text-sm text-zinc-500">
+                            Instructors
+                        </p>
+                        <p className="mt-1 font-semibold leading-5">
+                            {ascent.instructors.join(", ")}
+                        </p>
+                    </div>
+                ) : null}
             </div>
         </section>
         {ascent.images.length > 0 && (

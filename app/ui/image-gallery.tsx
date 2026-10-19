@@ -46,6 +46,7 @@ export default function ImageGallery({ images, title }: { images: string[]; titl
                             height={1000}
                             sizes="(min-width: 768px) 50vw, 100vw"
                             className="h-auto w-full rounded-xl"
+                            loading="eager"
                         />
                     </button>
                 ))}
