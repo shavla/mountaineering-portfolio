@@ -36,8 +36,10 @@ export default function ImageGallery({ images, title }: { images: string[]; titl
                     <button
                         key={src}
                         type="button"
-                        onClick={() => setOpenIndex(index)}
-                        className="mb-6 block w-full cursor-zoom-in break-inside-avoid"
+                        onClick={() => {
+                            if (window.matchMedia("(min-width: 768px)").matches) setOpenIndex(index);
+                        }}
+                        className="mb-6 block w-full cursor-default break-inside-avoid md:cursor-zoom-in"
                     >
                         <Image
                             src={src}
@@ -67,6 +69,7 @@ export default function ImageGallery({ images, title }: { images: string[]; titl
                             fill
                             sizes="90vw"
                             className="object-contain"
+                            loading="eager"
                         />
                     </div>
 

@@ -75,7 +75,7 @@ export default async function AscentInfo({ params }: { params: Promise<{ id: str
                 Expedition details
             </h2>
 
-            <div className="mt-6 grid gap-10 md:grid-cols-3">
+            <div className={`mt-6 grid gap-10 ${ascent.instructors?.length ? "md:grid-cols-3" : "md:grid-cols-[3fr_4fr]"}`}>
                 <div>
                     <p className="text-sm text-zinc-500">
                         Ascent type
