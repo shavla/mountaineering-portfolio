@@ -31,7 +31,7 @@ export default function ImageGallery({ images, title }: { images: string[]; titl
 
     return (
         <>
-            <div className="mt-6 columns-1 gap-6 md:columns-2">
+            <div className="mt-8 columns-1 gap-6 md:columns-2">
                 {images.map((src, index) => (
                     <button
                         key={src}

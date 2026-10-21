@@ -75,7 +75,7 @@ export default async function AscentInfo({ params }: { params: Promise<{ id: str
                 Expedition details
             </h2>
 
-            <div className={`mt-6 grid gap-10 ${ascent.instructors?.length ? "md:grid-cols-3" : "md:grid-cols-[3fr_4fr]"}`}>
+            <div className={`mt-8 grid gap-10 ${ascent.instructors?.length ? "md:grid-cols-3" : "md:grid-cols-[3fr_4fr]"}`}>
                 <div>
                     <p className="text-sm text-zinc-500">
                         Ascent type
@@ -110,7 +110,7 @@ export default async function AscentInfo({ params }: { params: Promise<{ id: str
             </div>
         </section>
         {ascent.images.length > 0 && (
-            <section className="mt-16 border-t border-zinc-200 pt-10">
+            <section className="mt-14 border-t border-zinc-200 pt-10">
                 <h2 className="text-sm font-semibold uppercase tracking-[0.2em] text-zinc-500">Moments from the mountain</h2>
 
                 <ImageGallery
