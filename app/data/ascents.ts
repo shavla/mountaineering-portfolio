@@ -475,5 +475,314 @@ On the third day, we descended to Mestia and then continued our journey back to 
         images: ["tetnuldi1-1.jpg", "tetnuldi1-2.jpg", "tetnuldi1-3.jpg", "tetnuldi1-4.jpg", "tetnuldi1-5.jpg", "tetnuldi1-6.jpg", "tetnuldi1-7.jpg", "tetnuldi1-8.jpg"],
         duration: "3 days",
         distance: 9
+    },
+    {
+        id: 16,
+        mountain: "Traverse of Mt. Takaishvili and Mt. Tikanadze",
+        country: "Georgia",
+        status: "successful",
+        type: "guided",
+        date: "2026-07-01",
+        elevation: 3436,
+        difficulty: "2A",
+        thumbnail: "takaishvili-tikanadze-route.png",
+        route: {
+            points: [
+                { name: "Chaukhi Camp", elevation: 2600 },
+                { name: "Mt. Takaishvili", elevation: 3422 },
+                { name: "Mt. Tikanadze", elevation: 3436 },
+            ],
+            distance: 4.2,
+            elevationGain: 836,
+            description: `We climbed Mt. Takaishvili via the classic route. From the summit, we descended a short distance to reach the ridge leading toward Mt. Tikanadze, then continued along the ridge toward the peak.
+
+After reaching Mt. Tikanadze, we descended via its classic route.
+
+It's not a particularly difficult route, but it offers a very pleasant combination of easy climbing and ridge walking.`
+        },
+        team: ["Dachi Chaduneli", "Mariam Kartvelishvili", "Mziko Badzagua"],
+        instructors: ["Georgi Tefnadze"],
+        images: ["chaukhi-route.png", "takaishvili-tikanadze1-1.jpg", "takaishvili-tikanadze1-2.jpg", "takaishvili-tikanadze1-3.jpg"],
+        duration: "1 day",
+        distance: 4.2
+    },
+    {
+        id: 17,
+        mountain: "Mt. Javakhishvili",
+        country: "Georgia",
+        status: "successful",
+        type: "guided",
+        date: "2026-07-02",
+        elevation: 3733,
+        difficulty: "3A",
+        thumbnail: "javakhishvili.png",
+        route: {
+            points: [
+                { name: "Chaukhi Camp", elevation: 2600 },
+                { name: "Mt. Javakhishvili", elevation: 3733 },
+            ],
+            distance: 4,
+            elevationGain: 1133,
+            description: `This is the classic route to Javakhishvili. We were a team of five and left camp at 6:00 a.m.
+
+We moved quickly and reached the couloir in no time. The couloir wasn't too steep, and the climbing sections were also of moderate difficulty.`
+        },
+        team: ["Dachi Chaduneli", "Mariam Kartvelishvili", "Mziko Badzagua"],
+        instructors: ["Baqar Gelashvili"],
+        images: ["chaukhi-route.png", "javakhishvili-route.png", "javakhishvili2-1.jpg", "javakhishvili2-2.jpg", "javakhishvili2-3.jpg", "javakhishvili2-4.jpg"],
+        duration: "1 day",
+        distance: 4
+    },
+    {
+        id: 18,
+        mountain: "Mt. Rcheulishvili",
+        country: "Georgia",
+        status: "successful",
+        type: "guided",
+        date: "2026-07-03",
+        elevation: 3642,
+        difficulty: "3B",
+        thumbnail: "rcheulishvili3.png",
+        route: {
+            points: [
+                { name: "Chaukhi Camp", elevation: 2600 },
+                { name: "Mt. Rcheulishvili", elevation: 3642 },
+            ],
+            distance: 3.5,
+            elevationGain: 1042,
+            description: `This is one of the most interesting climbing routes in the Chaukhi Massif. As we entered the cirque, we headed to the right and started climbing.
+
+            I was leading the first pitch, but unfortunately, my feet slipped several times, and I took a fall. I fell far enough to hit the hard snow with my back. My lungs started hurting, and I couldn't continue leading.
+
+Thanks to Mariam's energy and fearless determination, she continued climbing and kept us moving forward.
+
+I then continued as the second climber. At the final pitch, I tried leading again, but my lungs were hurting so badly that I could only climb halfway. Mariam finished the rest of the pitch.
+
+It was my first fall in the mountains, and I didn't feel well afterward.
+
+The route was interesting, with three or four pitches of climbing toward the summit, along with some sections where we moved together on a short rope. After reaching the summit, we descended via the classic route.`
+        },
+        team: ["Mariam Kartvelishvili", "Dachi Chaduneli", "Mziko Badzagua"],
+        instructors: ["Baqar Gelashvili"],
+        images: ["chaukhi-route.png", "rcheulishvili3-1.jpg", "rcheulishvili3-2.jpg", "rcheulishvili3-3.jpg"],
+        duration: "1 day",
+        distance: 3.5
+    },
+    {
+        id: 19,
+        mountain: "Mt. Asatiani",
+        country: "Georgia",
+        status: "successful",
+        type: "guided",
+        date: "2026-07-05",
+        elevation: 3842,
+        difficulty: "4A",
+        thumbnail: "asatiani4.png",
+        route: {
+            points: [
+                { name: "Chaukhi Camp", elevation: 2600 },
+                { name: "Mt. Asatiani", elevation: 3842 },
+            ],
+            distance: 5.5,
+            elevationGain: 1242,
+            description: `We climbed the Kameruni–Asatiani Couloir, one of the steepest couloirs in the Chaukhi Massif.
+
+The saddle was cold and windy. It's one of the coldest spots in the area because of the strong winds and the lack of direct sunlight until midday.
+
+We started climbing on relatively easy terrain. After about four pitches, we switched to moving together on a short rope as we approached the summit.
+
+You need to be extremely careful on this route because of the risk of rockfall. During our descent, falling rocks damaged one of our ropes. The couloir is particularly dangerous because the surrounding rock walls funnel falling rocks directly into the narrow gully where climbers are moving.
+
+The descent through the couloir is tricky as well, so you need to remain alert and move carefully.`
+        },
+        team: ["Dachi Chaduneli", "Nika Gubauri", "Mziko Badzagua", "Nesi Machavariani"],
+        instructors: ["Baqar Gelashvili"],
+        images: ["chaukhi-route.png", "asatiani4-route.png", "asatiani3-1.jpg", "asatiani3-2.jpg", "asatiani3-3.jpg"],
+        duration: "1 day",
+        distance: 5.5
+    },
+    {
+        id: 20,
+        mountain: "Mt. Leonidze",
+        country: "Georgia",
+        status: "successful",
+        type: "guided",
+        date: "2026-07-09",
+        elevation: 3746,
+        difficulty: "4A",
+        thumbnail: "leonidze.png",
+        route: {
+            points: [
+                { name: "Chaukhi Camp", elevation: 2600 },
+                { name: "Mt. Leonidze", elevation: 3746 },
+            ],
+            distance: 4,
+            elevationGain: 1242,
+            description: `This is the classic route to Mt. Leonidze. It's a short but technically challenging climb.
+
+We headed to the Javakhishvili Couloir and then turned right. The second pitch was the most difficult part of the route.
+
+The climbing was very enjoyable and interesting, with technical sections that challenged us to put our skills and knowledge to use. On the final section, we continued moving together on a short rope.`
+        },
+        team: ["Dachi Chaduneli", "Mariam Kartvelishvili", "Mziko Badzagua"],
+        instructors: ["Temur Qurdiani"],
+        images: ["chaukhi-route.png", "leonidze-route.png", "leonidze1-1.jpg", "leonidze1-2.jpg"],
+        duration: "1 day",
+        distance: 4
+    },
+    {
+        id: 21,
+        mountain: "Traverse of Mt. Takaishvili and Mt. Tikanadze",
+        country: "Georgia",
+        status: "successful",
+        type: "independent",
+        date: "2026-07-10",
+        elevation: 3436,
+        difficulty: "2A",
+        thumbnail: "takaishvili-tikanadze-route.png",
+        route: {
+            points: [
+                { name: "Chaukhi Camp", elevation: 2600 },
+                { name: "Mt. Takaishvili", elevation: 3422 },
+                { name: "Mt. Tikanadze", elevation: 3436 },
+            ],
+            distance: 4.2,
+            elevationGain: 836,
+            description: `We climbed Mt. Takaishvili via the classic route. From the summit, we descended a short distance to reach the ridge leading toward Mt. Tikanadze, then continued along the ridge toward the peak.
+
+After reaching Mt. Tikanadze, we descended via its classic route.
+
+It's not a particularly difficult route, but it offers a very pleasant combination of easy climbing and ridge walking.`
+        },
+        team: ["Ilia Ubiria", "Medea Kenkebashvili", "Giorgi Sanaia"],
+        images: ["chaukhi-route.png"],
+        duration: "1 day",
+        distance: 4.2
+    },
+    {
+        id: 22,
+        mountain: "Mt. Layla",
+        country: "Georgia",
+        status: "attempted",
+        type: "independent",
+        date: "2026-07-18",
+        elevation: 4009,
+        difficulty: "1B",
+        thumbnail: "layla.jpg",
+        route: {
+            points: [
+                { name: "Village Tviberi", elevation: 1339 },
+                { name: "Mt. Layla", elevation: 4009 },
+            ],
+            distance: 15,
+            elevationGain: 2670,
+            description: `We left Tbilisi the day before the climb. Our plan was to complete the entire ascent and descent in a single day, starting from the village without stopping at any intermediate camps. It was a challenging objective: we wanted to cover around 15 km and gain more than 2,500 meters in elevation.
+
+None of us knew the route, and none of us had been there before, which made the ascent even more challenging.
+
+The route was almost entirely uphill, with practically no flat sections or descents. At an altitude of around 3,000 meters, one of our team members began experiencing dizziness, so we had to slow down.
+
+Another major challenge was navigation. Since we were unfamiliar with the route, it was difficult to find the correct way. We headed toward the ridge, which turned out to be a mistake.
+
+With around 900 meters of distance remaining to the summit, we encountered a very steep section that required us to descend before climbing again. It was getting dark, and although we might have reached the summit, we would have had to make the descent in darkness, with little food and energy left.
+
+We decided to turn back, and it was the right decision. We still had to walk through the night, and descending steep terrain while exhausted was extremely difficult.
+
+We finally returned to camp at around 11:00 p.m., after approximately 17 hours on the move.
+
+It was one of the longest and most exhausting days I've ever spent in the mountains.`
+        },
+        team: ["Saba Darsavelidze", "Valeri Dushashvili"],
+        images: ["layla1-1.jpg", "layla1-2.jpg", "layla1-3.jpg", "layla1-4.jpg", "layla1-5.jpg", "layla1-6.jpg"],
+        duration: "1 day",
+        distance: 15
+    },
+    {
+        id: 23,
+        mountain: "Mt. Javakhishvili",
+        country: "Georgia",
+        status: "successful",
+        type: "independent",
+        date: "2026-08-01",
+        elevation: 3733,
+        difficulty: "3A",
+        thumbnail: "javakhishvili.png",
+        route: {
+            points: [
+                { name: "Chaukhi Camp", elevation: 2600 },
+                { name: "Mt. Javakhishvili", elevation: 3733 },
+            ],
+            distance: 4,
+            elevationGain: 1133,
+            description: `This is the classic route to Javakhishvili. We were a team of two and left camp at 6:00 a.m.
+
+We moved quickly and reached the couloir in no time. The couloir wasn't too steep, and the climbing sections were also of moderate difficulty.`
+        },
+        team: ["Mariam Kartvelishvili"],
+        images: ["chaukhi-route.png", "javakhishvili-route.png", "javakhishvili3-1.jpg", "javakhishvili3-2.jpg", "javakhishvili3-3.jpg", "javakhishvili3-4.jpg", "javakhishvili3-5.jpg"],
+        duration: "1 day",
+        distance: 4
+    },
+    {
+        id: 24,
+        mountain: "Mt. Kazbegi",
+        country: "Georgia",
+        status: "successful",
+        type: "independent",
+        date: "2026-08-20",
+        elevation: 5054,
+        difficulty: "2A",
+        thumbnail: "mt-kazbeg.jpg",
+        route: {
+            points: [
+                { name: "Gergeti Trinity Church Parking", elevation: 2160 },
+                { name: "White Cross", elevation: 3840 },
+                { name: "Mt. Kazbegi", elevation: 5054 },
+            ],
+            distance: 15.5,
+            elevationGain: 2894,
+            description: `On August 20, we travelled to Kazbegi and drove to the parking area near Gergeti Trinity Church, where we had our tents set up and spent the night.
+
+On the second day, we hiked from the parking area to the White Cross camp above Betlemi Hut. We did some training and went on a short acclimatization hike, reaching an altitude of almost 4,000 meters.
+
+The next day, we started walking at 3:00 a.m. The weather was perfect, and the conditions were excellent, although there were lots of people on the route. We moved quickly and energetically toward the summit.
+
+We made a fast ascent, and thanks to the excellent weather, we spent almost an hour at the top, taking photos and calling our friends to share the moment.
+
+Afterward, we descended safely to camp.
+
+We didn't return to the cars that day. Instead, we rested at camp and descended to the parking area the following day before driving back to Tbilisi.`
+        },
+        team: ["Nini Datunaishvili", "Davit Gogilashvili", "Sandro Jiqia"],
+        images: ["mt-kazbeg-route.png", "kazbegi4-1.jpg", "kazbegi4-2.jpg", "kazbegi4-3.jpg", "kazbegi4-4.jpg"],
+        duration: "3 days",
+        distance: 15.5
+    },
+    {
+        id: 25,
+        mountain: "Mt. Catyn",
+        country: "Georgia",
+        status: "successful",
+        type: "guided",
+        date: "2026-09-16",
+        elevation: 4412,
+        difficulty: "3A",
+        thumbnail: "catyn.png",
+        route: {
+            points: [
+                { name: "Mazeri Last Stop", elevation: 1940 },
+                { name: "Shxelda Base Camp", elevation: 2800 },
+                { name: "Ushba Plateau", elevation: 3900 },
+                { name: "Mt. Catyn", elevation: 4412 },
+            ],
+            distance: 14,
+            elevationGain: 2472,
+            description: ""
+        },
+        team: ["Alpine school students"],
+        instructors: ["Giorgi Tefnadze", "Baqar Gelashvili", "Temur Qurdiani"],
+        images: ["catyn-route.png", "catyn1-1.jpg", "catyn1-2.jpg", "catyn1-3.jpg", "catyn1-4.jpg", "catyn1-5.jpg", "catyn1-6.jpg", "catyn1-7.jpg", "catyn1-8.jpg"],
+        duration: "3 days",
+        distance: 14
     }
 ]
