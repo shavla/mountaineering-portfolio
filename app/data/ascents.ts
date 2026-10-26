@@ -777,7 +777,21 @@ We didn't return to the cars that day. Instead, we rested at camp and descended 
             ],
             distance: 14,
             elevationGain: 2472,
-            description: ""
+            description: `We started walking from the last stop in Mazeri early in the morning. We knew the weather was going to change, so we had to move as quickly as possible.
+
+Unfortunately, the weather changed, and we got soaked. We had to stop at the first camp at the foot of Shkhelda. After the storm passed, the sun came out for a couple of hours, giving us a chance to dry our gear.
+
+The next day, another storm arrived. As we climbed higher, the rain turned to snow. We continued as best we could, but before reaching the Ushba Plateau, we stopped at around 3,900 meters and camped on the snow. We pitched our tents immediately.
+
+The storm eventually passed, and the following day gave us a weather window to attempt our climbs.
+
+We split into groups, and I joined the team heading for Catyn. We started by moving through deep snow before climbing onto the ice. The conditions were far from ideal: the ice was poor, and it was still snowing. As soon as we reached the summit, we began our descent because of the worsening weather.
+
+Back at camp, we checked the forecast and saw that another heavy storm was expected in the coming days. We decided to descend to the green valley as soon as possible.
+
+We started our descent and reached the hostel at around 1:00 a.m.
+
+It was one of the most interesting and challenging mountain trips I've ever experienced, with difficult navigation through deep crevasses and harsh conditions in the mountains surrounding Ushba, one of the most formidable peaks in the Caucasus.`
         },
         team: ["Alpine school students"],
         instructors: ["Giorgi Tefnadze", "Baqar Gelashvili", "Temur Qurdiani"],
