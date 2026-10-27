@@ -28,7 +28,7 @@ At 2 a.m. on the third day, we left our camp and began our ascent in the darknes
 Later that day, we began our journey back to Tbilisi. Although we didn't reach the summit, the experience was still an important part of our mountaineering journey`
         },
         team: ["Gagi Nartyoshvili", "Ilia Ubiria", "Solomon Shaqarashvili", "Teona Dzuliashvili", "Medea Kenkebashvili", "Giorgi Sanaia", "Giorgi Xucishvili"],
-        images: ["mt-kazbeg-route.png", "kazbegi1-1.jpg", "kazbegi1-2.jpg", "kazbegi1-3.jpg", "kazbegi1-4.jpg", "profile.jpg"],
+        images: ["mt-kazbeg-route.jpg", "kazbegi1-1.jpg", "kazbegi1-2.jpg", "kazbegi1-3.jpg", "kazbegi1-4.jpg", "profile.jpg"],
         duration: "3 days",
         distance: 15.5
     },
@@ -41,7 +41,7 @@ Later that day, we began our journey back to Tbilisi. Although we didn't reach t
         date: "2023-07-16",
         elevation: 3642,
         difficulty: "1B",
-        thumbnail: "rcheulishvili.png",
+        thumbnail: "rcheulishvili.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -56,7 +56,7 @@ We started walking through dense mist. It was very cold, and a few of our friend
 We missed the pass and, due to a miscalculation, ended up in the wrong couloir. The terrain was harsh, but we pushed on and successfully completed the ascent.`
         },
         team: ["Solomon Shaqarashvili", "Giorgi Sanaia", "Nini Datunaishvili", "Medea Kenkebashvili", "Teona Dzuliashvili", "Mziko Badzagua", "Temo Pashalishvili"],
-        images: ["chaukhi-route.png", "rcheulishvili1-1.jpg", "rcheulishvili1-2.jpg", "rcheulishvili1-3.jpg", "rcheulishvili1-4.jpg"],
+        images: ["chaukhi-route.jpg", "rcheulishvili1-1.jpg", "rcheulishvili1-2.jpg", "rcheulishvili1-3.jpg", "rcheulishvili1-4.jpg"],
         duration: "1 day",
         distance: 3.5
     },
@@ -85,7 +85,7 @@ This was my first ascent with the school, and the beginning of a beautiful journ
         },
         team: ["Alpine school students include my friends: Medea Kenkebashvili", "Teona Dzuliashvili", "Giorgi Sanaia"],
         instructors: ["Giorgi Kaxabrishvili"],
-        images: ["chaukhi-route.png", "tikanadze1-1.jpg", "tikanadze1-2.jpg", "tikanadze1-3.jpg", "tikanadze1-4.jpg"],
+        images: ["chaukhi-route.jpg", "tikanadze1-1.jpg", "tikanadze1-2.jpg", "tikanadze1-3.jpg", "tikanadze1-4.jpg"],
         duration: "1 day",
         distance: 3.6
     },
@@ -114,7 +114,7 @@ This was my second ascent with the school, and it was a wonderful experience. We
         },
         team: ["Alpine school students include my friends: Medea Kenkebashvili", "Teona Dzuliashvili", "Giorgi Sanaia"],
         instructors: ["Giorgi Kaxabrishvili"],
-        images: ["chaukhi-route.png", "takaishvili1-1.jpg", "takaishvili1-2.jpg", "takaishvili1-3.jpg", "takaishvili1-4.jpg", "takaishvili1-5.jpg"],
+        images: ["chaukhi-route.jpg", "takaishvili1-1.jpg", "takaishvili1-2.jpg", "takaishvili1-3.jpg", "takaishvili1-4.jpg", "takaishvili1-5.jpg"],
         duration: "1 day",
         distance: 3.2
     },
@@ -127,7 +127,7 @@ This was my second ascent with the school, and it was a wonderful experience. We
         date: "2024-07-06",
         elevation: 3642,
         difficulty: "1B",
-        thumbnail: "rcheulishvili.png",
+        thumbnail: "rcheulishvili.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -140,7 +140,7 @@ This was my second ascent with the school, and it was a wonderful experience. We
 Unlike during my first ascent, we could clearly see the couloir and followed the classic route. We climbed along the ridge to reach the summit.`,
         },
         team: ["Alpine school students include my friends: Medea Kenkebashvili", "Teona Dzuliashvili", "Giorgi Sanaia"],
-        images: ["chaukhi-route.png", "rcheulishvili2-1.jpg", "rcheulishvili2-2.jpg"],
+        images: ["chaukhi-route.jpg", "rcheulishvili2-1.jpg", "rcheulishvili2-2.jpg"],
         instructors: ["Giorgi Kaxabrishvili"],
         duration: "1 day",
         distance: 3.5
@@ -154,7 +154,7 @@ Unlike during my first ascent, we could clearly see the couloir and followed the
         date: "2024-07-08",
         elevation: 3436,
         difficulty: "2A",
-        thumbnail: "tikanadze2.png",
+        thumbnail: "tikanadze2.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -168,7 +168,7 @@ The entire route is shown in Picture 1. Moving along the ridge is trickier, but 
         },
         team: ["Alpine school students include my friends: Medea Kenkebashvili", "Teona Dzuliashvili", "Giorgi Sanaia"],
         instructors: ["Giorgi Kaxabrishvili"],
-        images: ["chaukhi-route.png", "tikanadze2-1.jpg", "tikanadze2-2.jpg", "tikanadze2-3.jpg", "tikanadze2-4.jpg"],
+        images: ["chaukhi-route.jpg", "tikanadze2-1.jpg", "tikanadze2-2.jpg", "tikanadze2-3.jpg", "tikanadze2-4.jpg"],
         duration: "1 day",
         distance: 3.2
     },
@@ -181,7 +181,7 @@ The entire route is shown in Picture 1. Moving along the ridge is trickier, but 
         date: "2024-07-09",
         elevation: 3842,
         difficulty: "2B",
-        thumbnail: "asatiani.png",
+        thumbnail: "asatiani.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -199,7 +199,7 @@ After that, we had to descend and return to camp.`
         },
         team: ["Alpine school students include my friends: Medea Kenkebashvili", "Teona Dzuliashvili", "Giorgi Sanaia"],
         instructors: ["Vakhtang Blagidze", "Giorgi Kaxabrishvili"],
-        images: ["chaukhi-route.png", "asatiani-route.png", "asatiani1-1.jpg", "asatiani1-2.jpg", "asatiani1-3.jpg", "asatiani1-4.jpg", "asatiani1-5.jpg"],
+        images: ["chaukhi-route.jpg", "asatiani-route.jpg", "asatiani1-1.jpg", "asatiani1-2.jpg", "asatiani1-3.jpg", "asatiani1-4.jpg", "asatiani1-5.jpg"],
         duration: "1 day",
         distance: 5.5
     },
@@ -235,7 +235,7 @@ I decided to return to camp with her, while the rest of the team continued towar
 After they returned to camp, we began our journey back to Tbilisi.`
         },
         team: ["Solomon Shaqarashvili", "Ilia Ubiria", "Saba Darsavelidze", "Nini Datunaishvili", "Medea Kenkebashvili", "Davit Gogilashvili"],
-        images: ["mt-kazbeg-route.png", "kazbegi2-1.jpg", "kazbegi2-2.jpg", "kazbegi2-3.jpg", "kazbegi2-4.jpg", "kazbegi2-5.jpg", "kazbegi2-6.jpg"],
+        images: ["mt-kazbeg-route.jpg", "kazbegi2-1.jpg", "kazbegi2-2.jpg", "kazbegi2-3.jpg", "kazbegi2-4.jpg", "kazbegi2-5.jpg", "kazbegi2-6.jpg"],
         duration: "3 days",
         distance: 15.5
     },
@@ -271,7 +271,7 @@ On the fourth day, we left camp at 3:00 a.m. and headed for the summit. The weat
 On the fifth day, we returned to Tbilisi.`
         },
         team: ["Medea Kenkebashvili", "Teona Dzuliashvili", "Giorgi Sanaia"],
-        images: ["mt-kazbeg-route.png", "kazbegi3-1.jpg", "kazbegi3-2.jpg", "kazbegi3-3.jpg", "kazbegi3-4.jpg", "kazbegi3-5.jpg", "kazbegi3-6.jpg", "kazbegi3-7.jpg", "kazbegi3-8.jpg"],
+        images: ["mt-kazbeg-route.jpg", "kazbegi3-1.jpg", "kazbegi3-2.jpg", "kazbegi3-3.jpg", "kazbegi3-4.jpg", "kazbegi3-5.jpg", "kazbegi3-6.jpg", "kazbegi3-7.jpg", "kazbegi3-8.jpg"],
         duration: "5 days",
         distance: 15.5
     },
@@ -315,7 +315,7 @@ For the descent, we used T-shaped anchors, and the last person had to climb back
         date: "2025-06-27",
         elevation: 3842,
         difficulty: "2B",
-        thumbnail: "asatiani.png",
+        thumbnail: "asatiani.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -333,7 +333,7 @@ We successfully completed the ascent and descent without any incidents.`
         },
         team: ["Lasha Mamaladze", "Lery Paksadze"],
         instructors: ["Vakhtang Blagidze"],
-        images: ["chaukhi-route.png", "asatiani-route.png", "asatiani2-1.jpg", "asatiani2-2.jpg", "asatiani2-3.jpg", "asatiani2-4.jpg", "asatiani2-5.jpg"],
+        images: ["chaukhi-route.jpg", "asatiani-route.jpg", "asatiani2-1.jpg", "asatiani2-2.jpg", "asatiani2-3.jpg", "asatiani2-4.jpg", "asatiani2-5.jpg"],
         duration: "1 day",
         distance: 5.5
     },
@@ -346,7 +346,7 @@ We successfully completed the ascent and descent without any incidents.`
         date: "2025-06-28",
         elevation: 3733,
         difficulty: "3A",
-        thumbnail: "javakhishvili.png",
+        thumbnail: "javakhishvili.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -360,7 +360,7 @@ We moved quickly and reached the couloir in no time. The couloir wasn't too stee
         },
         team: ["Pavle Tabagari", "Teona Dzuliashvili"],
         instructors: ["Vakhtang Blagidze"],
-        images: ["chaukhi-route.png", "javakhishvili-route.png", "javakhishvili1-1.jpg", "javakhishvili1-2.jpg", "javakhishvili1-3.jpg", "javakhishvili1-4.jpg", "javakhishvili1-5.jpg", "javakhishvili1-6.jpg", "javakhishvili1-7.jpg"],
+        images: ["chaukhi-route.jpg", "javakhishvili-route.jpg", "javakhishvili1-1.jpg", "javakhishvili1-2.jpg", "javakhishvili1-3.jpg", "javakhishvili1-4.jpg", "javakhishvili1-5.jpg", "javakhishvili1-6.jpg", "javakhishvili1-7.jpg"],
         duration: "1 day",
         distance: 4
     },
@@ -373,7 +373,7 @@ We moved quickly and reached the couloir in no time. The couloir wasn't too stee
         date: "2025-07-01",
         elevation: 3533,
         difficulty: "3A",
-        thumbnail: "javakhishvili-teeth.png",
+        thumbnail: "javakhishvili-teeth.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -387,7 +387,7 @@ The route has many interesting climbing sections. In some places, we had to clim
         },
         team: ["Teona Dzuliashvili", "Nika Xubulashvili"],
         instructors: ["Georgi Tefnadze"],
-        images: ["chaukhi-route.png", "teeth1-1.jpg", "teeth1-2.jpg", "teeth1-3.jpg", "teeth1-4.jpg"],
+        images: ["chaukhi-route.jpg", "teeth1-1.jpg", "teeth1-2.jpg", "teeth1-3.jpg", "teeth1-4.jpg"],
         duration: "1 day",
         distance: 4
     },
@@ -400,7 +400,7 @@ The route has many interesting climbing sections. In some places, we had to clim
         date: "2025-07-02",
         elevation: 3642,
         difficulty: "3B",
-        thumbnail: "chaukhi-route.png",
+        thumbnail: "chaukhi-route.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -485,7 +485,7 @@ On the third day, we descended to Mestia and then continued our journey back to 
         date: "2026-07-01",
         elevation: 3436,
         difficulty: "2A",
-        thumbnail: "takaishvili-tikanadze-route.png",
+        thumbnail: "takaishvili-tikanadze-route.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -502,7 +502,7 @@ It's not a particularly difficult route, but it offers a very pleasant combinati
         },
         team: ["Dachi Chaduneli", "Mariam Kartvelishvili", "Mziko Badzagua"],
         instructors: ["Georgi Tefnadze"],
-        images: ["chaukhi-route.png", "takaishvili-tikanadze1-1.jpg", "takaishvili-tikanadze1-2.jpg", "takaishvili-tikanadze1-3.jpg"],
+        images: ["chaukhi-route.jpg", "takaishvili-tikanadze1-1.jpg", "takaishvili-tikanadze1-2.jpg", "takaishvili-tikanadze1-3.jpg"],
         duration: "1 day",
         distance: 4.2
     },
@@ -515,7 +515,7 @@ It's not a particularly difficult route, but it offers a very pleasant combinati
         date: "2026-07-02",
         elevation: 3733,
         difficulty: "3A",
-        thumbnail: "javakhishvili.png",
+        thumbnail: "javakhishvili.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -529,7 +529,7 @@ We moved quickly and reached the couloir in no time. The couloir wasn't too stee
         },
         team: ["Dachi Chaduneli", "Mariam Kartvelishvili", "Mziko Badzagua"],
         instructors: ["Baqar Gelashvili"],
-        images: ["chaukhi-route.png", "javakhishvili-route.png", "javakhishvili2-1.jpg", "javakhishvili2-2.jpg", "javakhishvili2-3.jpg", "javakhishvili2-4.jpg"],
+        images: ["chaukhi-route.jpg", "javakhishvili-route.jpg", "javakhishvili2-1.jpg", "javakhishvili2-2.jpg", "javakhishvili2-3.jpg", "javakhishvili2-4.jpg"],
         duration: "1 day",
         distance: 4
     },
@@ -542,7 +542,7 @@ We moved quickly and reached the couloir in no time. The couloir wasn't too stee
         date: "2026-07-03",
         elevation: 3642,
         difficulty: "3B",
-        thumbnail: "rcheulishvili3.png",
+        thumbnail: "rcheulishvili3.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -564,7 +564,7 @@ The route was interesting, with three or four pitches of climbing toward the sum
         },
         team: ["Mariam Kartvelishvili", "Dachi Chaduneli", "Mziko Badzagua"],
         instructors: ["Baqar Gelashvili"],
-        images: ["chaukhi-route.png", "rcheulishvili3-1.jpg", "rcheulishvili3-2.jpg", "rcheulishvili3-3.jpg"],
+        images: ["chaukhi-route.jpg", "rcheulishvili3-1.jpg", "rcheulishvili3-2.jpg", "rcheulishvili3-3.jpg"],
         duration: "1 day",
         distance: 3.5
     },
@@ -577,7 +577,7 @@ The route was interesting, with three or four pitches of climbing toward the sum
         date: "2026-07-05",
         elevation: 3842,
         difficulty: "4A",
-        thumbnail: "asatiani4.png",
+        thumbnail: "asatiani4.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -597,7 +597,7 @@ The descent through the couloir is tricky as well, so you need to remain alert a
         },
         team: ["Dachi Chaduneli", "Nika Gubauri", "Mziko Badzagua", "Nesi Machavariani"],
         instructors: ["Baqar Gelashvili"],
-        images: ["chaukhi-route.png", "asatiani4-route.png", "asatiani3-1.jpg", "asatiani3-2.jpg", "asatiani3-3.jpg"],
+        images: ["chaukhi-route.jpg", "asatiani4-route.jpg", "asatiani3-1.jpg", "asatiani3-2.jpg", "asatiani3-3.jpg"],
         duration: "1 day",
         distance: 5.5
     },
@@ -610,7 +610,7 @@ The descent through the couloir is tricky as well, so you need to remain alert a
         date: "2026-07-09",
         elevation: 3746,
         difficulty: "4A",
-        thumbnail: "leonidze.png",
+        thumbnail: "leonidze.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -626,7 +626,7 @@ The climbing was very enjoyable and interesting, with technical sections that ch
         },
         team: ["Dachi Chaduneli", "Mariam Kartvelishvili", "Mziko Badzagua"],
         instructors: ["Temur Qurdiani"],
-        images: ["chaukhi-route.png", "leonidze-route.png", "leonidze1-1.jpg", "leonidze1-2.jpg"],
+        images: ["chaukhi-route.jpg", "leonidze-route.jpg", "leonidze1-1.jpg", "leonidze1-2.jpg"],
         duration: "1 day",
         distance: 4
     },
@@ -639,7 +639,7 @@ The climbing was very enjoyable and interesting, with technical sections that ch
         date: "2026-07-10",
         elevation: 3436,
         difficulty: "2A",
-        thumbnail: "takaishvili-tikanadze-route.png",
+        thumbnail: "takaishvili-tikanadze-route.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -655,7 +655,7 @@ After reaching Mt. Tikanadze, we descended via its classic route.
 It's not a particularly difficult route, but it offers a very pleasant combination of easy climbing and ridge walking.`
         },
         team: ["Ilia Ubiria", "Medea Kenkebashvili", "Giorgi Sanaia"],
-        images: ["chaukhi-route.png"],
+        images: ["chaukhi-route.jpg"],
         duration: "1 day",
         distance: 4.2
     },
@@ -706,7 +706,7 @@ It was one of the longest and most exhausting days I've ever spent in the mounta
         date: "2026-08-01",
         elevation: 3733,
         difficulty: "3A",
-        thumbnail: "javakhishvili.png",
+        thumbnail: "javakhishvili.jpg",
         route: {
             points: [
                 { name: "Chaukhi Camp", elevation: 2600 },
@@ -719,7 +719,7 @@ It was one of the longest and most exhausting days I've ever spent in the mounta
 We moved quickly and reached the couloir in no time. The couloir wasn't too steep, and the climbing sections were also of moderate difficulty.`
         },
         team: ["Mariam Kartvelishvili"],
-        images: ["chaukhi-route.png", "javakhishvili-route.png", "javakhishvili3-1.jpg", "javakhishvili3-2.jpg", "javakhishvili3-3.jpg", "javakhishvili3-4.jpg", "javakhishvili3-5.jpg"],
+        images: ["chaukhi-route.jpg", "javakhishvili-route.jpg", "javakhishvili3-1.jpg", "javakhishvili3-2.jpg", "javakhishvili3-3.jpg", "javakhishvili3-4.jpg", "javakhishvili3-5.jpg"],
         duration: "1 day",
         distance: 4
     },
@@ -754,7 +754,7 @@ Afterward, we descended safely to camp.
 We didn't return to the cars that day. Instead, we rested at camp and descended to the parking area the following day before driving back to Tbilisi.`
         },
         team: ["Nini Datunaishvili", "Davit Gogilashvili", "Sandro Jiqia"],
-        images: ["mt-kazbeg-route.png", "kazbegi4-1.jpg", "kazbegi4-2.jpg", "kazbegi4-3.jpg", "kazbegi4-4.jpg"],
+        images: ["mt-kazbeg-route.jpg", "kazbegi4-1.jpg", "kazbegi4-2.jpg", "kazbegi4-3.jpg", "kazbegi4-4.jpg"],
         duration: "3 days",
         distance: 15.5
     },
@@ -767,7 +767,7 @@ We didn't return to the cars that day. Instead, we rested at camp and descended 
         date: "2026-09-16",
         elevation: 4412,
         difficulty: "3A",
-        thumbnail: "catyn.png",
+        thumbnail: "catyn.jpg",
         route: {
             points: [
                 { name: "Mazeri Last Stop", elevation: 1940 },
@@ -795,7 +795,7 @@ It was one of the most interesting and challenging mountain trips I've ever expe
         },
         team: ["Alpine school students"],
         instructors: ["Giorgi Tefnadze", "Baqar Gelashvili", "Temur Qurdiani"],
-        images: ["catyn-route.png", "catyn1-1.jpg", "catyn1-2.jpg", "catyn1-3.jpg", "catyn1-4.jpg", "catyn1-5.jpg", "catyn1-6.jpg", "catyn1-7.jpg", "catyn1-8.jpg"],
+        images: ["catyn-route.jpg", "catyn1-1.jpg", "catyn1-2.jpg", "catyn1-3.jpg", "catyn1-4.jpg", "catyn1-5.jpg", "catyn1-6.jpg", "catyn1-7.jpg", "catyn1-8.jpg"],
         duration: "3 days",
         distance: 14
     }

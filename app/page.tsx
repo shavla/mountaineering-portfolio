@@ -2,6 +2,7 @@ import Image from "next/image";
 import logoImage from "@/public/images/profile.jpg";
 import { ascents } from "./data/ascents";
 import AscentCard from "./ui/ascent-card";
+import AscentSummary from "./ui/ascent-summary";
 
 export default function Home() {
   const independentAscents = ascents.filter((ascent) => ascent.type === "independent").sort((a, b) => b.date.localeCompare(a.date));
@@ -31,8 +32,9 @@ export default function Home() {
       <div className="ascents independent mt-16">
         <h2 className="flex items-center gap-1 text-xl font-bold">
           ASCENTS
-          <span className="text-sm font-semibold">- INDEPENDENT</span>
+          <span className="text-sm font-semibold">- INDEPENDENT({independentAscents.length})</span>
         </h2>
+        <AscentSummary ascents={independentAscents} />
 
         <div className="mt-6 flex flex-col gap-6">
           {independentAscents.map((ascent) => (
@@ -44,8 +46,9 @@ export default function Home() {
       <div className="ascents guided mt-10">
         <h2 className="flex items-center gap-1 text-xl font-bold">
           ASCENTS
-          <span className="text-sm font-semibold">- GUIDED</span>
+          <span className="text-sm font-semibold">- GUIDED({guidedAscents.length})</span>
         </h2>
+        <AscentSummary ascents={guidedAscents} />
 
         <div className="mt-6 flex flex-col gap-6">
           {guidedAscents.map((ascent) => (
