@@ -33,7 +33,7 @@ body::before {
   position: fixed;
   inset: 0;
   z-index: -1;
-  background: url("/images/map.png") center / cover no-repeat;
+  background: url("/images/map.jpg") center / cover no-repeat;
   opacity: 0.04;
   pointer-events: none;
 }
